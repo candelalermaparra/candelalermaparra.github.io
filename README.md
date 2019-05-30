@@ -1,6 +1,6 @@
-# cmi.io
+9# cmi.io
 
-## Proyecto de bellas artes del 2019
+## Proyecto de Candela Lerma Parra bellas artes del 2019
 
 
 Ejemplo de proyecto exportado en HTML a un repositorio de Github. (se debe llamar XXXX.github.io) donde XXXX es tu nombre en github
@@ -12,4 +12,4 @@ La página Github se puede visualizar con el siguiente enlace:  !(https://mgea.g
 
 
 
-Miguel Gea, Febrero 2018 
+Candela Lerma, Mayo 2019
